@@ -19,13 +19,13 @@ Terms:
 
 ## Other Client Related Credits
 
-**Credits to <a href="https://github.com/Tellinq">Tellinq</a> for colors changes, and Mod Menu animations and Background Radius.**
+**Credits to <a href="https://www.youtube.com/channel/UCpeYMC0_hNB_GPqpsSw92Wg">Tellinq</a> for colors changes, and Mod Menu animations, and Mod Options.**
 
 **Credits to the Protocol Network for error fixes in the Mod Manager, and CPS Mod additions, as well as the Potion Counter.**
 
 ## Websockets
 
-Credits to previous and present <a href="https://github.com/Offline-CheatBreakr">Offline CheatBreaker</a> Development teams for friends.
+Credits to previous and present <a href="https://github.com/Offline-CheatBreakr">Offline CheatBreaker</a> Development teams for the friends list.
 
 Credits to <a href="https://github.com/Moose1301">Moose1301</a> for everything that wasn't in the original websocket source, this includes but is not limited to cosmetics and ranks.
 
