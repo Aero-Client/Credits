@@ -33,7 +33,3 @@ Terms:
 Credits to previous and present <a href="https://github.com/Offline-CheatBreaker">Offline CheatBreaker</a> Development teams for the friends list.
 
 Credits to <a href="https://github.com/Moose1301">Moose1301</a> for everything that wasn't in the original websocket source, this includes but is not limited to cosmetics and ranks.
-
-## Hosting
-
-Credits to mnDevs for hosting the websockets. Aero Client is powered and hosted by mnDevs.
